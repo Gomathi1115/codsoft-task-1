@@ -1,0 +1,24 @@
+🚀 New Project Spotlight: Sales Prediction with Machine Learning! 📊
+Excited to share my latest project, where I developed a Sales Prediction Model to forecast sales based on advertising expenditures. This project is crucial for businesses to optimize their marketing strategies and maximize revenue! 💡
+🔍 Project Highlights:
+1️⃣ Data Exploration & Insights
+Conducted Exploratory Data Analysis (EDA) to understand the relationship between advertising budgets and sales.
+Used pair plots, correlation heatmaps, and descriptive statistics to identify key trends and patterns.
+2️⃣ Data Preprocessing
+Cleaned the dataset by handling missing values and scaling features for better model performance.
+Ensured data consistency and readiness for training.
+3️⃣ Model Development & Training
+Implemented a Linear Regression model to predict sales based on advertising expenditure.
+Split the dataset into training (80%) and testing (20%) subsets for evaluation.
+4️⃣ Performance Evaluation
+Achieved high accuracy, measured using Mean Absolute Error (MAE), Mean Squared Error (MSE), RMSE, and R² Score.
+Visualized the actual vs. predicted sales to assess model performance.
+5️⃣ New Sales Predictions
+Used the trained model to forecast sales for new advertising budgets, providing valuable insights for business decision-making.
+💡 Key Takeaways:
+✅ Strengthened my understanding of predictive modeling and the full ML workflow from EDA to model evaluation.
+✅ Gained hands-on experience with Linear Regression, data preprocessing, and visualization techniques.
+✅ Learned the importance of feature scaling, correlation analysis, and model validation in sales forecasting.
+🛠 Tech Stack:
+🔹 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+✨ hashtag#SalesPrediction | hashtag#MachineLearning | hashtag#DataScience | hashtag#LinearRegression | hashtag#Python | hashtag#DataVisualization | hashtag#MLProjects | hashtag#BusinessAnalytics | hashtag#CODSOFT
